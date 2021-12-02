@@ -1,4 +1,5 @@
 import java.util.Scanner;  
+import java.math;
 public class SpyNumberExample1   
 {  
 public static void main(String args[])  
